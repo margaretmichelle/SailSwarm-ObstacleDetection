@@ -18,7 +18,7 @@ The obstacle detection module contains the following:
 
 + **AWR1843BOOST mmWave Sensor:** mmWave radar sensor used to detect obstacles and determine distances (https://www.ti.com/tool/AWR1843BOOST).
 
-## Software Components
+## In this Repo
 
 The codebase is written in Python and includes the following:
 
@@ -28,8 +28,13 @@ Scripts to run on the Raspberry Pi to collect raw data for testing processing pi
 ### Sensor Data Processing:
 Scripts used to calibrate and process the sensor outputs as well as final sensor fusion data processing script.
 
+Other folders include:
+
 ### Sensor Mount CAD:
 CAD files for the 3D printed mount the sensors and Raspberry Pi sit on inside the waterproof enclosure.
+
+### Data
+Some videos and CSV file data collected throughout the summer.
 
 
 ## Contact Information:
